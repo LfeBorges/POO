@@ -1,0 +1,14 @@
+D:\POO noite\ConstrutorProduto\bin\Debug\net8.0\ConstrutorProduto.exe
+D:\POO noite\ConstrutorProduto\bin\Debug\net8.0\ConstrutorProduto.deps.json
+D:\POO noite\ConstrutorProduto\bin\Debug\net8.0\ConstrutorProduto.runtimeconfig.json
+D:\POO noite\ConstrutorProduto\bin\Debug\net8.0\ConstrutorProduto.dll
+D:\POO noite\ConstrutorProduto\bin\Debug\net8.0\ConstrutorProduto.pdb
+D:\POO noite\ConstrutorProduto\obj\Debug\net8.0\ConstrutorProduto.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO noite\ConstrutorProduto\obj\Debug\net8.0\ConstrutorProduto.AssemblyInfoInputs.cache
+D:\POO noite\ConstrutorProduto\obj\Debug\net8.0\ConstrutorProduto.AssemblyInfo.cs
+D:\POO noite\ConstrutorProduto\obj\Debug\net8.0\ConstrutorProduto.csproj.CoreCompileInputs.cache
+D:\POO noite\ConstrutorProduto\obj\Debug\net8.0\ConstrutorProduto.dll
+D:\POO noite\ConstrutorProduto\obj\Debug\net8.0\refint\ConstrutorProduto.dll
+D:\POO noite\ConstrutorProduto\obj\Debug\net8.0\ConstrutorProduto.pdb
+D:\POO noite\ConstrutorProduto\obj\Debug\net8.0\ConstrutorProduto.genruntimeconfig.cache
+D:\POO noite\ConstrutorProduto\obj\Debug\net8.0\ref\ConstrutorProduto.dll
