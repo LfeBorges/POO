@@ -1,0 +1,5 @@
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\ConstrutorAluno\obj\Debug\net6.0\ConstrutorAluno.csproj.AssemblyReference.cache
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\ConstrutorAluno\obj\Debug\net6.0\ConstrutorAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\ConstrutorAluno\obj\Debug\net6.0\ConstrutorAluno.AssemblyInfoInputs.cache
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\ConstrutorAluno\obj\Debug\net6.0\ConstrutorAluno.AssemblyInfo.cs
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\ConstrutorAluno\obj\Debug\net6.0\ConstrutorAluno.csproj.CoreCompileInputs.cache
