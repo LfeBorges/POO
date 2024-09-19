@@ -28,6 +28,13 @@ namespace HerancaProduto
             set { lote = value; }
         }
         
+        public Perecivel(int codigo, string nome, double preco, int dtValidade, int dtFabricacao, int lote) : base(codigo, nome, preco)
+        {
+            DtValidade = dtValidade;
+            DtFabricacao = dtFabricacao;
+            Lote = lote;
+
+        }
         
     }
 }
