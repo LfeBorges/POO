@@ -28,7 +28,6 @@ namespace HerancaCliente
         {            
         }
         
-    
         public void Mostrar()
         {
             base.Mostrar(); //Apresenta o código e o nome
