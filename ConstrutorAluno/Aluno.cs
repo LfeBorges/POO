@@ -27,16 +27,10 @@ namespace ConstrutorAluno
             contador ++;
             this.matricula = GerarMatricula();
         }
-        public Aluno(string nome, int matricula)
-        {
-            this.nome = nome;
-            this.matricula = matricula;
-            contador ++;
-        }
 
         private int GerarMatricula()
         {
-            return 1570482313000 + contador;  
+            return 1570482313 + contador;  
         }
         public void Mostrar()
         {
