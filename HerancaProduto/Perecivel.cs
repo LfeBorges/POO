@@ -37,7 +37,7 @@ namespace HerancaProduto
         }
         public void Mostrar(){
             base.Mostrar();
-            Console.WriteLine("Data de Fabricação: "+DtFabricacao+ "Data de Validade: " +DtValidade+ "Lote: "+Lote);
+            Console.WriteLine("Data de Fabricação: "+ DtFabricacao + "Data de Validade: " + DtValidade + "Lote: "+ Lote);
         }
         
     }
