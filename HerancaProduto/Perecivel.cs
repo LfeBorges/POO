@@ -7,28 +7,28 @@ namespace HerancaProduto
 {
     public class Perecivel : Produto
     {
-        private int dtValidade;  
-        private int dtFabricacao;
-        private int lote;
+        private string dtValidade;  
+        private string dtFabricacao;
+        private string lote;
 
-        public int DtValidade
+        public string DtValidade
         {
-            get { return dtvalidade; }
-            set { dtvalidade = value; }
+            get { return dtValidade; }
+            set { dtValidade = value; }
         }
-        public int DtFabricacao
+        public string DtFabricacao
         {
-            get { return dtfabricacao; }
-            set { dtfabricacao = value; }
+            get { return dtFabricacao; }
+            set { dtFabricacao = value; }
         }
         
-        public int Lote
+        public string Lote
         {
             get { return lote; }
             set { lote = value; }
         }
         
-        public Perecivel(int codigo, string nome, double preco, int dtValidade, int dtFabricacao, int lote) : base(codigo, nome, preco)
+        public Perecivel(int codigo, string nome, double preco, string dtValidade, string dtFabricacao, string lote) : base(codigo, nome, preco)
         {
             DtValidade = dtValidade;
             DtFabricacao = dtFabricacao;
