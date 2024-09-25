@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aluno\\Downloads\\POO noite\\ClasseProduto\\ClasseProduto.csproj": {}
+    "C:\\Users\\borge\\OneDrive\\Documentos\\GitHub\\POO\\ClasseProduto\\ClasseProduto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aluno\\Downloads\\POO noite\\ClasseProduto\\ClasseProduto.csproj": {
+    "C:\\Users\\borge\\OneDrive\\Documentos\\GitHub\\POO\\ClasseProduto\\ClasseProduto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aluno\\Downloads\\POO noite\\ClasseProduto\\ClasseProduto.csproj",
+        "projectUniqueName": "C:\\Users\\borge\\OneDrive\\Documentos\\GitHub\\POO\\ClasseProduto\\ClasseProduto.csproj",
         "projectName": "ClasseProduto",
-        "projectPath": "C:\\Users\\aluno\\Downloads\\POO noite\\ClasseProduto\\ClasseProduto.csproj",
-        "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aluno\\Downloads\\POO noite\\ClasseProduto\\obj\\",
+        "projectPath": "C:\\Users\\borge\\OneDrive\\Documentos\\GitHub\\POO\\ClasseProduto\\ClasseProduto.csproj",
+        "packagesPath": "C:\\Users\\borge\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\borge\\OneDrive\\Documentos\\GitHub\\POO\\ClasseProduto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\borge\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

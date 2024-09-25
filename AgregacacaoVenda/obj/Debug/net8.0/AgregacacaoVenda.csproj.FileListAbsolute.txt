@@ -1,0 +1,15 @@
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\AgregacacaoVenda\obj\Debug\net8.0\AgregacacaoVenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\AgregacacaoVenda\obj\Debug\net8.0\AgregacacaoVenda.AssemblyInfoInputs.cache
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\AgregacacaoVenda\obj\Debug\net8.0\AgregacacaoVenda.AssemblyInfo.cs
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\AgregacacaoVenda\obj\Debug\net8.0\AgregacacaoVenda.csproj.CoreCompileInputs.cache
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\AgregacacaoVenda\obj\Debug\net8.0\AgregacacaoVenda.sourcelink.json
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\AgregacacaoVenda\bin\Debug\net8.0\AgregacacaoVenda.exe
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\AgregacacaoVenda\bin\Debug\net8.0\AgregacacaoVenda.deps.json
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\AgregacacaoVenda\bin\Debug\net8.0\AgregacacaoVenda.runtimeconfig.json
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\AgregacacaoVenda\bin\Debug\net8.0\AgregacacaoVenda.dll
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\AgregacacaoVenda\bin\Debug\net8.0\AgregacacaoVenda.pdb
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\AgregacacaoVenda\obj\Debug\net8.0\AgregacacaoVenda.dll
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\AgregacacaoVenda\obj\Debug\net8.0\refint\AgregacacaoVenda.dll
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\AgregacacaoVenda\obj\Debug\net8.0\AgregacacaoVenda.pdb
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\AgregacacaoVenda\obj\Debug\net8.0\AgregacacaoVenda.genruntimeconfig.cache
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\AgregacacaoVenda\obj\Debug\net8.0\ref\AgregacacaoVenda.dll

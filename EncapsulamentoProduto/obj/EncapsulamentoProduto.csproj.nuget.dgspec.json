@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\POO noite\\EncapsulamentoProduto\\EncapsulamentoProduto.csproj": {}
+    "C:\\Users\\borge\\OneDrive\\Documentos\\GitHub\\POO\\EncapsulamentoProduto\\EncapsulamentoProduto.csproj": {}
   },
   "projects": {
-    "D:\\POO noite\\EncapsulamentoProduto\\EncapsulamentoProduto.csproj": {
+    "C:\\Users\\borge\\OneDrive\\Documentos\\GitHub\\POO\\EncapsulamentoProduto\\EncapsulamentoProduto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\POO noite\\EncapsulamentoProduto\\EncapsulamentoProduto.csproj",
+        "projectUniqueName": "C:\\Users\\borge\\OneDrive\\Documentos\\GitHub\\POO\\EncapsulamentoProduto\\EncapsulamentoProduto.csproj",
         "projectName": "EncapsulamentoProduto",
-        "projectPath": "D:\\POO noite\\EncapsulamentoProduto\\EncapsulamentoProduto.csproj",
-        "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-        "outputPath": "D:\\POO noite\\EncapsulamentoProduto\\obj\\",
+        "projectPath": "C:\\Users\\borge\\OneDrive\\Documentos\\GitHub\\POO\\EncapsulamentoProduto\\EncapsulamentoProduto.csproj",
+        "packagesPath": "C:\\Users\\borge\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\borge\\OneDrive\\Documentos\\GitHub\\POO\\EncapsulamentoProduto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\borge\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
