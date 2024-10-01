@@ -1,0 +1,15 @@
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\ComposiçãoBanco\obj\Debug\net8.0\ComposiçãoBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\ComposiçãoBanco\obj\Debug\net8.0\ComposiçãoBanco.AssemblyInfoInputs.cache
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\ComposiçãoBanco\obj\Debug\net8.0\ComposiçãoBanco.AssemblyInfo.cs
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\ComposiçãoBanco\obj\Debug\net8.0\ComposiçãoBanco.csproj.CoreCompileInputs.cache
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\ComposiçãoBanco\obj\Debug\net8.0\ComposiçãoBanco.sourcelink.json
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\ComposiçãoBanco\bin\Debug\net8.0\ComposiçãoBanco.exe
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\ComposiçãoBanco\bin\Debug\net8.0\ComposiçãoBanco.deps.json
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\ComposiçãoBanco\bin\Debug\net8.0\ComposiçãoBanco.runtimeconfig.json
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\ComposiçãoBanco\bin\Debug\net8.0\ComposiçãoBanco.dll
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\ComposiçãoBanco\bin\Debug\net8.0\ComposiçãoBanco.pdb
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\ComposiçãoBanco\obj\Debug\net8.0\ComposiçãoBanco.dll
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\ComposiçãoBanco\obj\Debug\net8.0\refint\ComposiçãoBanco.dll
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\ComposiçãoBanco\obj\Debug\net8.0\ComposiçãoBanco.pdb
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\ComposiçãoBanco\obj\Debug\net8.0\ComposiçãoBanco.genruntimeconfig.cache
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\ComposiçãoBanco\obj\Debug\net8.0\ref\ComposiçãoBanco.dll
