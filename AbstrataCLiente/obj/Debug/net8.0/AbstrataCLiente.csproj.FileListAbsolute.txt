@@ -1,0 +1,15 @@
+C:\Users\aluno\Documents\GitHub\POO\AbstrataCLiente\obj\Debug\net8.0\AbstrataCLiente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\GitHub\POO\AbstrataCLiente\obj\Debug\net8.0\AbstrataCLiente.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\GitHub\POO\AbstrataCLiente\obj\Debug\net8.0\AbstrataCLiente.AssemblyInfo.cs
+C:\Users\aluno\Documents\GitHub\POO\AbstrataCLiente\obj\Debug\net8.0\AbstrataCLiente.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\GitHub\POO\AbstrataCLiente\obj\Debug\net8.0\AbstrataCLiente.sourcelink.json
+C:\Users\aluno\Documents\GitHub\POO\AbstrataCLiente\bin\Debug\net8.0\AbstrataCLiente.exe
+C:\Users\aluno\Documents\GitHub\POO\AbstrataCLiente\bin\Debug\net8.0\AbstrataCLiente.deps.json
+C:\Users\aluno\Documents\GitHub\POO\AbstrataCLiente\bin\Debug\net8.0\AbstrataCLiente.runtimeconfig.json
+C:\Users\aluno\Documents\GitHub\POO\AbstrataCLiente\bin\Debug\net8.0\AbstrataCLiente.dll
+C:\Users\aluno\Documents\GitHub\POO\AbstrataCLiente\bin\Debug\net8.0\AbstrataCLiente.pdb
+C:\Users\aluno\Documents\GitHub\POO\AbstrataCLiente\obj\Debug\net8.0\AbstrataCLiente.dll
+C:\Users\aluno\Documents\GitHub\POO\AbstrataCLiente\obj\Debug\net8.0\refint\AbstrataCLiente.dll
+C:\Users\aluno\Documents\GitHub\POO\AbstrataCLiente\obj\Debug\net8.0\AbstrataCLiente.pdb
+C:\Users\aluno\Documents\GitHub\POO\AbstrataCLiente\obj\Debug\net8.0\AbstrataCLiente.genruntimeconfig.cache
+C:\Users\aluno\Documents\GitHub\POO\AbstrataCLiente\obj\Debug\net8.0\ref\AbstrataCLiente.dll
