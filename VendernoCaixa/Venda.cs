@@ -5,17 +5,23 @@ using System.Threading.Tasks;
 
 namespace VendernoCaixa
 {
-    public class Venda
+   public class Venda
     {
-        private DateTime data;
-        private double total;
-        private List<ItemVenda> itens;
+        public List<ItemVenda> Itens { get; set; } = new List<ItemVenda>();
+        public double Total { get; private set; }
 
-        public ItemVenda NovoItem(int cod, int quant) {
-        ItemVenda item = new ItemVenda(cod, quant);
-        total += item.getSubtotal();
-        itens.Add(item);
-        return item;
+        public void AdicionarItem(ItemVenda item)
+        {
+            Itens.Add(item);
+        }
+
+        public void CalcularTotal()
+        {
+            Total = Itens.Sum(i => i.Subtotal);
+            if (Itens.Sum(i => i.Quantidade) > 50)
+            {
+                Total *= 0.8;  // Aplica 20% de desconto
+            }
         }
     }
 }

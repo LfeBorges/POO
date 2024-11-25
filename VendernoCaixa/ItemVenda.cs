@@ -5,15 +5,16 @@ using System.Threading.Tasks;
 
 namespace VendernoCaixa
 {
-    public class ItemVenda
+  public class ItemVenda
     {
-        private int quantidade;
-        private double preco, subtotal;
-        private Produto produto;
+        public Produto Produto { get; set; }
+        public int Quantidade { get; set; }
+        public double Subtotal => Produto.Preco * Quantidade;
 
-        public ItemVenda(int cod, int quant) {
-        produto = new Produto();
-        quantidade = quant;
+        public ItemVenda(Produto produto, int quantidade)
+        {
+            Produto = produto;
+            Quantidade = quantidade;
         }
     }
 }

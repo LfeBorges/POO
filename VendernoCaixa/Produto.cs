@@ -5,31 +5,19 @@ using System.Threading.Tasks;
 
 namespace VendernoCaixa
 {
-    public class Produto
+  public class Produto
     {
-        private long codigo;
-        private string nome;
-        private double preco;
-        private int estoque;
-        public  int Codigo
+        public long Codigo { get; set; }
+        public string Nome { get; set; }
+        public double Preco { get; set; }
+        public int Estoque { get; set; }
+
+        public Produto(long codigo, string nome, double preco, int estoque)
         {
-            get { return codigo; }
-            set { codigo = value; }
-        }
-        public string Nome
-        {
-            get { return nome; }
-            set { nome = value; }
-        }
-        public double Preco
-        {
-            get { return preco; }
-            set { preco = value; }
-        }
-        public int estoque
-        {
-            get { return estoque; }
-            set { estoque = value; }
+            Codigo = codigo;
+            Nome = nome;
+            Preco = preco;
+            Estoque = estoque;
         }
     }
 }

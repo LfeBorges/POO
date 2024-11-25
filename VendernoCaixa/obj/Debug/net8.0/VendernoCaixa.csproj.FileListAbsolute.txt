@@ -1,0 +1,15 @@
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\VendernoCaixa\bin\Debug\net8.0\VendernoCaixa.exe
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\VendernoCaixa\bin\Debug\net8.0\VendernoCaixa.deps.json
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\VendernoCaixa\bin\Debug\net8.0\VendernoCaixa.runtimeconfig.json
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\VendernoCaixa\bin\Debug\net8.0\VendernoCaixa.dll
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\VendernoCaixa\bin\Debug\net8.0\VendernoCaixa.pdb
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\VendernoCaixa\obj\Debug\net8.0\VendernoCaixa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\VendernoCaixa\obj\Debug\net8.0\VendernoCaixa.AssemblyInfoInputs.cache
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\VendernoCaixa\obj\Debug\net8.0\VendernoCaixa.AssemblyInfo.cs
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\VendernoCaixa\obj\Debug\net8.0\VendernoCaixa.csproj.CoreCompileInputs.cache
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\VendernoCaixa\obj\Debug\net8.0\VendernoCaixa.sourcelink.json
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\VendernoCaixa\obj\Debug\net8.0\VendernoCaixa.dll
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\VendernoCaixa\obj\Debug\net8.0\refint\VendernoCaixa.dll
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\VendernoCaixa\obj\Debug\net8.0\VendernoCaixa.pdb
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\VendernoCaixa\obj\Debug\net8.0\VendernoCaixa.genruntimeconfig.cache
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\VendernoCaixa\obj\Debug\net8.0\ref\VendernoCaixa.dll

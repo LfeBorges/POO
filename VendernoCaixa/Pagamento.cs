@@ -5,21 +5,15 @@ using System.Threading.Tasks;
 
 namespace VendernoCaixa
 {
-    public class Pagamento
+  public abstract class Pagamento
     {
-        private DateTime data;
-        private double total;
-        public DateTime Data
-        {
-            get { return data; }
-            set { data = value; }
-        }
+        public double Total { get; set; }
 
-        public double total
+        public Pagamento(double total)
         {
-            get { return total; }
-            set { total = value; }
+            Total = total;
         }
-        
+        public abstract void ProcessarPagamento();
     }
+
 }

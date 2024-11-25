@@ -1,0 +1,15 @@
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\InterfaceItributavel\obj\Debug\net8.0\InterfaceItributavel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\InterfaceItributavel\obj\Debug\net8.0\InterfaceItributavel.AssemblyInfoInputs.cache
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\InterfaceItributavel\obj\Debug\net8.0\InterfaceItributavel.AssemblyInfo.cs
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\InterfaceItributavel\obj\Debug\net8.0\InterfaceItributavel.csproj.CoreCompileInputs.cache
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\InterfaceItributavel\obj\Debug\net8.0\InterfaceItributavel.sourcelink.json
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\InterfaceItributavel\bin\Debug\net8.0\InterfaceItributavel.exe
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\InterfaceItributavel\bin\Debug\net8.0\InterfaceItributavel.deps.json
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\InterfaceItributavel\bin\Debug\net8.0\InterfaceItributavel.runtimeconfig.json
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\InterfaceItributavel\bin\Debug\net8.0\InterfaceItributavel.dll
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\InterfaceItributavel\bin\Debug\net8.0\InterfaceItributavel.pdb
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\InterfaceItributavel\obj\Debug\net8.0\InterfaceItributavel.dll
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\InterfaceItributavel\obj\Debug\net8.0\refint\InterfaceItributavel.dll
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\InterfaceItributavel\obj\Debug\net8.0\InterfaceItributavel.pdb
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\InterfaceItributavel\obj\Debug\net8.0\InterfaceItributavel.genruntimeconfig.cache
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\InterfaceItributavel\obj\Debug\net8.0\ref\InterfaceItributavel.dll

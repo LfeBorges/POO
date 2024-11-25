@@ -1,0 +1,15 @@
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\SRP\obj\Debug\net8.0\SRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\SRP\obj\Debug\net8.0\SRP.AssemblyInfoInputs.cache
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\SRP\obj\Debug\net8.0\SRP.AssemblyInfo.cs
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\SRP\obj\Debug\net8.0\SRP.csproj.CoreCompileInputs.cache
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\SRP\obj\Debug\net8.0\SRP.sourcelink.json
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\SRP\bin\Debug\net8.0\SRP.exe
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\SRP\bin\Debug\net8.0\SRP.deps.json
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\SRP\bin\Debug\net8.0\SRP.runtimeconfig.json
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\SRP\bin\Debug\net8.0\SRP.dll
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\SRP\bin\Debug\net8.0\SRP.pdb
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\SRP\obj\Debug\net8.0\SRP.dll
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\SRP\obj\Debug\net8.0\refint\SRP.dll
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\SRP\obj\Debug\net8.0\SRP.pdb
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\SRP\obj\Debug\net8.0\SRP.genruntimeconfig.cache
+C:\Users\borge\OneDrive\Documentos\GitHub\POO\SRP\obj\Debug\net8.0\ref\SRP.dll

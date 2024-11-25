@@ -5,8 +5,14 @@ using System.Threading.Tasks;
 
 namespace VendernoCaixa
 {
-    public class Especie : Pagamento
+ public class Espécie : Pagamento
     {
-        
+        public Espécie(double total) : base(total) { }
+
+        public override void ProcessarPagamento()
+        {
+            Console.WriteLine($"Pagamento em Espécie de R${Total} realizado com sucesso!");
+        }
     }
+
 }

@@ -9,7 +9,7 @@ namespace AbstratoFuncionario
     {
         public int Codigo { get; set; }
         public string Nome { get; set; }
-        public List<Funcionario> VetF { get; set; }
+        public List<Funcionario> VetF { get; set; } = new List<Funcionario>();
         public Departamento(int codigo, string nome)
         {
             Codigo = codigo;
